@@ -14,5 +14,6 @@ for(lert contador = 0; contador < listaDeTeclas.length;contador==) {
    tecla.onclick = function () {
        tocaSom(idAudio);
    }
-
+tecla.onKeyPowm=function(){
+    tecla.classList.add('ariva')
 }
